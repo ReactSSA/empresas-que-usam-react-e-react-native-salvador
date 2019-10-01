@@ -6,7 +6,7 @@ Nome/Website | Tecnologias Relacionadas
 ------------ | ------------------------
 [ConvergenceWorks](http://convergence.works) | React Native, Redux, Redux Saga
 [Cubos](https://cubos.io/) | Redux, MobX, Jest, Typescript
-[Editora Sanar](https://www.editorasanar.com.br/) | React Native, Redux, Redux Persist, Redux Saga, CodePush, ESLint
+[Sanar](https://www.editorasanar.com.br/) | React Native, Redux, Redux Persist, Redux Saga, TypeScript, GraphQL, DocZ, Enzyme, CodePush, ESLint
 [Escavador](https://www.escavador.com) | React Native, Redux, Normalizr, CodePush, Jest, Flow, Webpack
 [Jusbrasil](https://www.jusbrasil.com.br) | React Native, GraphQL, Relay, Flow, Jest, StoryBook, Webpack
 
